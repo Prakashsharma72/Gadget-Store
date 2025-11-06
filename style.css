@@ -875,11 +875,23 @@ footer {
   background-color: var(--buttonColor);
   color: #fff;
   padding: 1rem 2rem;
+  display: ruby-text;
         
 
 }
 
-.add-to-cart-button,
+.add-to-cart-button{
+  font-weight: 500;
+  font: inherit;
+  border-radius: 6px;
+  border: 0;
+  padding: 1rem 2.8rem;
+  background-color: var(--buttonColor);
+  color: #fff;
+  font-size: 1.6rem;
+  margin-top: 2rem;
+
+
 .contact-btn,
 .hero-btn a {
   font-weight: 500;
@@ -890,8 +902,7 @@ footer {
   background-color: var(--buttonColor);
   color: #fff;
   font-size: 1.6rem;
-  /* margin-top: 1.2rem; */
-  
+  /* margin-top: 2rem; */
 
   &:hover {
     box-shadow: inset 0px 1px 4px rgba(0, 0, 0, 0.16),
@@ -905,7 +916,6 @@ footer {
     padding-right: 1rem;
   }
 
- 
 }
 
 /*****  Add to Cart page starts *****/
