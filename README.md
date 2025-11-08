@@ -24,4 +24,4 @@ The Gadgets Store is a simple and responsive e-commerce web project built using 
 ---
 
 ## 🚀 Getting Started  
-https://github.com/Prakashsharma72/Gadget-Store
+[https://github.com/Prakashsharma72/Gadget-Store](https://prakashsharma72.github.io/Gadget-Store/)
